@@ -1,4 +1,4 @@
-👋 #Hi there, I’m @debsa2000
+👋 Hi there, I’m @debsa2000
 
 - 👀 I’m interested in Data Science, Machine Learning and Business Analytics!
 - 🌱 I’m currently learning tonnes of things
