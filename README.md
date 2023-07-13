@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Science, Machine Learning and Business Analytics!
 - 🌱 I’m currently learning tonnes of things
 - 💞️ I’m looking to collaborate on Projects in these fields 
-- 📫 How to reach me : debsa2000@gmail.com or +91 9013669154
+- 📫 How to reach me : debsa2000@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am really into singing, dancing and drawing.
 <!---
